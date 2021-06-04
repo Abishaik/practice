@@ -176,13 +176,21 @@
 #     pyautogui.press('left')
 #     pyautogui.press('left')
 #     pyautogui.press('down')
-s = "a3b2c1"
+# s = "a3b2c1"
 
-for i in s:
-    # print (type(i))
-    try:
-        int(i)
-        pass
-    except ValueError:
-        for j in s[i:]:
-            
+# for i in s:
+#     # print (type(i))
+#     try:
+#         int(i)
+#         pass
+#     except ValueError:
+#         for j in s[i:]:
+
+
+
+# a= int(input())
+
+# if a%2 ==0 and a>3:
+#     print ("YES")
+# else :
+#     print ("NO")
