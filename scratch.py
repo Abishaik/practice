@@ -723,3 +723,27 @@
 #     else:
 #         print("Weird")
 #         
+
+# a= "abishaik"
+# b= "aibshaik"
+# sa=sorted(a)
+# sb=sorted(b)
+# count=0
+# if len(a) != len(b):
+#     print("Not a Anagram")
+# 
+# else:
+#     for i in range(0,len(a)):
+#         if sa[i] ==sb[i]:
+#             count+=1
+#         else:
+#             break
+# 
+#     if count == len(a):
+#         print("Anagram")  
+#     
+#     else:
+#         print("Not")
+# 
+# 
+
