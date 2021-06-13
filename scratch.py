@@ -293,7 +293,7 @@
 # 
 # # script
 # driver.get(url)
-# print("Automation Started")
+# print("Automation Started") 
 # try :
 #     driver.find_element_by_xpath(emailPath).send_keys(email)
 #     driver.find_element_by_xpath(passwordPath).send_keys('password')
