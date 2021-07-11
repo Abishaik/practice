@@ -745,5 +745,150 @@
 #     else:
 #         print("Not")
 # 
+#Push
+# a="abisjakjs"
 # 
+# lis=["a","e","i","o","u"]
+# 
+# va =[]
+# 
+# for i in a :
+#     if i in lis:
+#         va.append(ord(i))
+# 
+# for i in range len(va-1):
+#     t = a[]
+# a=9
+# b=6
+# c=2
+# d=1
+# 
+# if c<=a :
+#     if c<=b :
+#         if a%c ==0:
+#             if b%c ==0:
+#                 d=c
+#                 c=c+1
+#             else:
+#                 c=c+1
+#         else :
+#             c= c+1 
+#             
+#     else :
+#         print (d)    
+# 
+# else :
+#     print (d)
+# print(6%1)
+# a=10
+# b=1
+# 
+# def sol(a,b):
+#     if a<=5:
+#         print(b)
+#     else :
+#         b=b+a
+#         a=a-1
+#         sol(a,b)
+# sol(a,b)
 
+# question 1 
+
+
+#IP: 
+# 6
+# 2,3,7,9,4,1
+
+# a = int(input("Enter Array Size :"))
+# var = []
+# for inps in range (0,a):
+#     element = int(input("Enter Array element : "))
+#     var.append(element)    
+# 
+# num1, num2 = 0,0 
+# 
+# for i in range(len(var)-1):
+#     for j in range (i+1,len(var)):
+#         total = var[i]+var[j]
+#         if total>num1:
+#             num2 = num1
+#             num1 = total
+# 
+#         elif total>num2:
+#             num2 = total
+# print(num2)
+
+# # working
+
+
+# 
+# 
+# l=list(input().split())
+# print((sorted(l,ket=str)))
+# print(9//2)
+# question 1 
+
+
+#IP: 
+# 6
+# 2,3,7,9,4,1
+
+# a = int(input("Enter Array Size :"))
+# var = []
+# for inps in range (0,a):
+#     element = int(input("Enter Array element : "))
+#     var.append(element)    
+# 
+# num1, num2 = 0,0 
+# 
+# for i in range(len(var)-1):
+#     for j in range (i+1,len(var)):
+#         total = var[i]+var[j]
+#         if total>num1:
+#             num2 = num1
+#             num1 = total
+# 
+#         elif total>num2:
+#             num2 = total
+# print(num2)
+
+# # working
+
+
+# 
+# 
+# l=list(input().split())
+# print((sorted(l,ket=str)))
+# 
+# i= 1
+# j=0
+# val=0
+# n=int(input())
+# def sol(i,j,n):
+#     if i<=n:
+#         if i%2==1 :
+#             
+#             j=j+i
+#             i=i+1
+#             sol(i,j,n) 
+#         else :
+#             i=i+1 
+#             sol(i,j,n)
+#     else :
+#         print(j)
+# 
+# sol(i,j,n)
+# a=7358
+# b=21 
+# def sol(a,b):
+#     if b == 0:
+#         print (a)
+#     else :
+#         c= a%100
+#         c= c*100 
+#         d= a/100 
+#         a= c+d 
+#         b= b-1
+#         sol(a,b)
+# 
+# sol(a,b)
