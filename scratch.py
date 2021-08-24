@@ -892,3 +892,56 @@
 #         sol(a,b)
 # 
 # sol(a,b)
+# 
+# email=input("Name")
+# passwords=input("Passwords")
+# case = int(input("Case"))
+# def Test(email,passwords):
+#     #code
+#     if (case==1): 
+#         OnlyName(email,passwords)
+# 
+#     elif (case==2):
+#         wrongPassword(email,passwords)
+# 
+#     elif (case==3):
+#         Time(email,passwords)
+#     
+#     elif (case==4):
+#         OnlyName(email,passwords)
+#         wrongPassword(email,passwords)
+#         Time(email,passwords)
+# 
+# def OnlyName(email,passwords):
+#     print("Opening Browser")
+#     print("URL--------- Email")
+#     print("Report")
+# 
+# 
+# def wrongPassword(email,password):
+#     print("Opening Browser")
+#     print("URL--------- Email, Wrong password")
+#     print("Report")
+# 
+# 
+# def Time(email,password):
+#     print("Opening Browser")
+#     print("URL--------- Email, correct passwords--------Time")
+#     print("Report")
+# 
+# 
+
+# Prurusothaman ########################################################3
+# Test(email,passwords)
+# print("Hai"+input() )
+
+# print((int(input())+" is positive" if a>0  else "is zero"  )
+
+# 
+# def fun():
+#     a= int(input())
+#     if a==10:
+#         print("Correct !")
+#     else: 
+#         return fun()
+# fun()
