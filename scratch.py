@@ -945,3 +945,25 @@
 #     else: 
 #         return fun()
 # fun()
+#Swathika ############################################
+# keys_lists = ['pogmcnf dafc', 'pavmchf dafc']
+# words = [
+#          ('pogmcnf dafc is the most valuable no in the banking domain', 'pogmcnf dafc'),
+#          ('the most valuable number in the insurance domain is the pogmcnf dafc', 'pogmcnf dafc'),
+#          ('every insurance individual has an account number', 'account number'),
+#          ('I have my own account number which is important to find the insurance', 'account number'),
+#          ]
+# a = ["abi","john","akash"]
+# b =  [("sjadkajasshaik","shaik"),("ssbshaikasd","shaik"),("snjsjsamuelnd","samuel"),("sjhsamuel","samuel"),("sajkjslove","love"),("ksakaxmnaruto","naruto")]
+# newlst = []
+# for i in range(0,len(b),2):
+#     tup1,tup2 = b[i][0],b[i][1]
+#     tup3,tup4 = b[i+1][0],b[i+1][1]
+#     tup1 = tup1.replace(tup2,a[i//2])
+#     tup2 = tup2.replace(tup2,a[i//2])
+#     tup3 = tup3.replace(tup4,a[i//2])
+#     tup4 = tup4.replace(tup4,a[i//2])
+#     newlst.append((tup1,tup2))
+#     newlst.append((tup3,tup4))
+# print(newlst)
+
