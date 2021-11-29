@@ -967,4 +967,39 @@
 #     newlst.append((tup3,tup4))
 # print(newlst)
 
+#kirubha
 
+# a=('a','e','i','o','u')
+# print(a[4])
+# a= [1,2,3,4,5,6,7,8,9]
+# print(a[::2])
+
+# l=[0,1,1,2,3,5,8,13,21,34,55]
+# print(list(filter(lambda x:x %2 -1,l)))
+
+# i = 5
+# while True:
+#     if i%3 ==0:
+#         break
+#     print(i)
+#     i+=2
+
+# for i in range(2,4):
+#     print (i)
+
+# l = 'sjdhfdjsss'
+# print(l.count('s'))
+
+# t='This is interesting'
+# print(t[slice(8,16)])
+
+# a= [1,2,3,4]
+# for i in a:
+#     if i == 4:
+#         continue
+#     print (i)
+
+# def d(**kwargs):
+#     for i in kwargs:
+#         print(i)
+# d(itemid="101",price=500)
