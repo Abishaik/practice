@@ -1003,3 +1003,33 @@
 #     for i in kwargs:
 #         print(i)
 # d(itemid="101",price=500)
+
+# Ajai Anna - Problem in flow chart
+
+
+
+# arr = [ 5,4,3,2,1 ]
+# 
+# i=0
+# j=4
+# sum=0
+# 
+# flag = True
+# while flag: 
+#     if j > i :
+#         count = j
+#         flag2 = True
+#         while flag2:
+#             if count > i :
+#                 sum = sum +arr[i] + arr[count]
+#                 count = count - 1
+#             else :
+#                 j=j-1
+#                 flag2 = False
+#     else :    
+#         print(sum)
+#         flag = False
+#         print("Loop Ended -----")
+# 
+# 
+
